@@ -10508,12 +10508,6 @@ a.text-dark:hover, a.text-dark:focus {
   font-family: Nunito-SemiBold;
 }
 
-.text-white-55 {
-  color: #069297 !important;
-  font-family: Nunito-SemiBold;
-  margin-top: -90px;
-}
-
 .text-white-60 {
   color: #005A64 !important;
   font-family: Nunito-SemiBold; 
@@ -10696,7 +10690,22 @@ hr.light {
   text-transform: uppercase;
   border: none;
   border-radius: 20px;
-  margin-top: -5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 210px;
+  height: 50px;
+}
+
+.btn-xl2 {
+  font-family: Nunito-SemiBold; 
+  padding: 1.0rem 2.25rem;
+  font-size: 0.77rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
   width: 210px;
   height: 50px;
 }
